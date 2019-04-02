@@ -4,7 +4,7 @@ title:      解决clipboardjs重复调用的正确姿势
 subtitle:   clipboardjs是一个非常好用的跨端（pc端，手机端）复制粘贴js库
 date:       2019-04-02
 author:     admin
-header-img: img/post-bg-desk.png
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - clipboardjs
